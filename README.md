@@ -1,4 +1,4 @@
-### Hi! I'm Larry 👋
+## Hi! I'm Larry 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/larry-dong/)](https://www.linkedin.com/in/larry-dong/) 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white&link=https://twitter.com/larryshamalama)](https://twitter.com/larryshamalama)
