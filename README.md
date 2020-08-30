@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/larry-dong/)](https://www.linkedin.com/in/larry-dong/) 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white&link=https://twitter.com/larryshamalama)](https://twitter.com/larryshamalama)
 
-I'm a first year PhD student at the Dalla Lana School of Public Health at the University of Toronto. My research interests include causal inference, Bayesian methods, image analysis and their applications in public health and medical research. I also enjoy coding in Python, playing sports and eating yogurt. Feel free to connect with me!
+I'm a first year PhD student at the Dalla Lana School of Public Health at the University of Toronto. My research interests include causal inference, Bayesian methods, image analysis and their applications in public health and medical research. I also enjoy coding in Python, playing sports and eating [fruit yogurt](https://www.activia.ca/en/activia-fruits/peach/). Feel free to connect with me!
 
 <!--
 **LarryShamalama/LarryShamalama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
