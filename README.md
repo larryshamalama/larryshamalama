@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/larry-dong/)](https://www.linkedin.com/in/larry-dong/) 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white&link=https://twitter.com/larryshamalama)](https://twitter.com/larryshamalama)
 
-I'm a PhD student in biostatistics at the Dalla Lana School of Public Health at the University of Toronto. My research interests include causal inference, Bayesian methods, image analysis and their applications in public health and medical research. I am currently working on building a Dirichlet process submodule for [PyMC](https://docs.pymc.io/) following a summer as a Google Summer of Code student! During my free time, I enjoy skateboarding 🛹 and eating fruits 🍐. Feel free to connect with me!
+I'm a PhD student in biostatistics at the Dalla Lana School of Public Health at the University of Toronto. My research interests include dynamic treatment regimes, Bayesian methods and their applications in public health and medical research. Following a summer as a Google Summer of Code student with PyMC, I am now a recurring contributor and becoming more involved in process of refactoring the codebase to v4. During my free time, I enjoy skateboarding 🛹 and eating fruits 🍐. Feel free to connect with me!
 
 <!--
 **LarryShamalama/LarryShamalama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
