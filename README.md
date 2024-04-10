@@ -7,10 +7,6 @@ I'm a PhD student in biostatistics at the Dalla Lana School of Public Health at 
 
 At school, I am also part of the [Health Data Working Group](https://health-data-working-group.github.io/) where we provide programming-related (mostly Git, so far) workshops to aid students in public health for their studies and research. During my free time, I enjoy skateboarding 🛹 and eating fruits 🍐. Feel free to connect with me!
 
-## GSoC 2024 ☀️
-
-Google Summer of Code (GSoC) is a great [(paid!)](https://developers.google.com/open-source/gsoc/help/student-stipends) opportunity for students to dive head first into the world of open-source by working on an appealing project under the mentorship of a more experienced developer. If you are interested in working with PyMC, please check out our [2024 project list](https://github.com/pymc-devs/pymc/wiki/GSoC-2024-projects) and engage in conversation with prospective mentors (all of whom are amazing!) on our [Discourse](https://discourse.pymc.io/) to express your interest and clarify any pre-requisite knowledge/steps. I have capacity to take 1 (maybe 2) student(s) to work on log-probability derivations for order statistics; if you are interested, do reach out!
-
 <!--
 **LarryShamalama/LarryShamalama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
